@@ -53,7 +53,7 @@ The Chai is a helper tool to for assertion of API response
 node_modules/.bin/wdio
 
 ```
-
+Sucessful launch of app : https://streamable.com/q9rn5
 
 ### Folder structure
 
@@ -76,4 +76,8 @@ node_modules/.bin/wdio
 
 ````
 
-
+## Challenges 
+- Not able to find locator using Appium desktop and trying out with UIAutoviewers to connect and get UML snapshot of simulator.
+```
+https://streamable.com/34clx
+```
