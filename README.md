@@ -7,9 +7,9 @@ Using Java Script Appium Android Automation
 - [GUI Test](#GUITest)
   - [Tech stacks](#tech-stacks)
   - [Setup](#setup)
-    - [Dev Setup Webdriverio Appium](#appium webdriverio)
-    - [Running test cases](#running-test-cases)
-    - [Folder structure]
+    - [Dev Setup Webdriverio Appium](#setup)
+    - [Running test cases](### Running test specs)
+    - [Folder structure](### Folder structure)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # GUITest
@@ -63,6 +63,15 @@ node_modules/.bin/wdio
 
 ````
 
+.
+├── geckodriver
+├── package.json
+├── test
+│   └── spec
+│       └── test.spec.js
+└── wdio.conf.js
+
+2 directories, 4 files
 
 
 ````
