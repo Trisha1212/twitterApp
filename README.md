@@ -77,7 +77,7 @@ Sucessful launch of app : https://streamable.com/q9rn5
 ````
 
 ## Challenges 
-- Not able to find locator using Appium desktop and trying out with UIAutoviewers to connect and get UML snapshot of simulator.
+- Challenge: Not able to find locator using Appium desktop and trying out with UIAutoviewers to connect and get UML snapshot of the simulator.
 ```
 https://streamable.com/34clx
 ```
