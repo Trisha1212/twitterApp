@@ -1,4 +1,4 @@
-# twitterApp
+# TwitterApp
 Using Java Script Appium Android Automation
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -8,8 +8,8 @@ Using Java Script Appium Android Automation
   - [Tech stacks](#tech-stacks)
   - [Setup](#setup)
     - [Dev Setup Webdriverio Appium](#setup)
-    - [Running test cases](### Running test specs)
-    - [Folder structure](### Folder structure)
+    - [Running test cases](###Running test specs)
+    - [Folder structure](###Folder structure)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # GUITest
